@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "trainwithshubham/node-app-test-new:latest"
+    image: "theruins777/node-todo-jenkins:latest"
     ports:
       - "8000:8000"
